@@ -3,14 +3,14 @@ Foundation of Data Science
 
 
 
-Practical 1 consist of basic of Data Collection, Modelling and Compilation
+# Practical 1 consist of basic of Data Collection, Modelling and Compilation
 
 Consists of following codes:-
 
 1.Data Preprocessing
 2. 
 
-Practical 2:- Data Visualization part 1:
+# Practical 2:- Data Visualization part 1:
 Consists of following codes:-
 1. Matplotlib
 2. Scatter Plot
@@ -22,7 +22,7 @@ Consists of following codes:-
 8. Subplots
 
 
-Practical 2:- Data Visualization part 1:
+#Practical 2:- Data Visualization part 1:
 Consists of following codes:-
 
 1. Seaborn
