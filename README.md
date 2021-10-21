@@ -22,7 +22,7 @@ Consists of following codes:-
 8. Subplots
 
 
-# Practical 2:- Data Visualization part 2:
+# Practical 3:- Data Visualization part 2:
 
 Consists of following codes:-
 
@@ -31,3 +31,8 @@ Consists of following codes:-
 2. Box and whiskers plot
 3. Pairwise Plot
 4. Heatmap plotting
+
+
+# Practical 4:- Probability Finder:- 
+1. The probablity of patients having cancer given test is positive
+2. The Probability of Spam Email which contains word Congratulations
