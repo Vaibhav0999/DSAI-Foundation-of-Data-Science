@@ -36,3 +36,11 @@ Consists of following codes:-
 # Practical 4:- Probability Finder:- 
 1. The probablity of patients having cancer given test is positive
 2. The Probability of Spam Email which contains word Congratulations
+
+
+
+# Practical 5_ Probability and Combinatorics
+1. Probability
+2. Comninatorics:- a. Permutations,
+                   b. Variation 
+                   c. Combinations
