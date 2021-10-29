@@ -39,8 +39,16 @@ Consists of following codes:-
 
 
 
-# Practical 5_ Probability and Combinatorics
+# Practical 5:-  Probability and Combinatorics:-
 1. Probability
 2. Comninatorics:- a. Permutations,
                    b. Variation 
                    c. Combinations
+
+
+
+# Practical 6:- Discrete Distribution:-
+1. Uniform Distribution
+2. Bernoulli Distribution
+3. Binomial Distribution
+4. Poisson Distribution
