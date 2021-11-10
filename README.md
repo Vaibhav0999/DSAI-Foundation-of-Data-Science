@@ -52,6 +52,7 @@ Consists of following codes:-
 2. Bernoulli Distribution
 3. Binomial Distribution
 4. Poisson Distribution
+5. Weibull Distribution
 
 
 
