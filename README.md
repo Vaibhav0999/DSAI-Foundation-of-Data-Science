@@ -52,3 +52,11 @@ Consists of following codes:-
 2. Bernoulli Distribution
 3. Binomial Distribution
 4. Poisson Distribution
+
+
+
+# Practical 7:- Continuous Distribution:
+1. Uniform Distribution
+2. Normal Distribution
+3. Exponential Distribution
+4. Exponential Distribution
