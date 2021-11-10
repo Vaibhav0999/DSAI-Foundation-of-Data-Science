@@ -33,13 +33,13 @@ Consists of following codes:-
 4. Heatmap plotting
 
 
-# Practical 4:- Probability Finder:- 
+# Practical 4:- Probability Finder:
 1. The probablity of patients having cancer given test is positive
 2. The Probability of Spam Email which contains word Congratulations
 
 
 
-# Practical 5:-  Probability and Combinatorics:-
+# Practical 5:-  Probability and Combinatorics:
 1. Probability
 2. Comninatorics:- a. Permutations,
                    b. Variation 
@@ -47,7 +47,7 @@ Consists of following codes:-
 
 
 
-# Practical 6:- Discrete Distribution:-
+# Practical 6:- Discrete Distribution:
 1. Uniform Distribution
 2. Bernoulli Distribution
 3. Binomial Distribution
